@@ -1,0 +1,10 @@
+{
+    "age": 28,
+    "city": "Rome",
+    "isAdult": true,
+    "name": "John",
+    "skills": [
+        "Coding",
+        "Painting"
+    ]
+}
